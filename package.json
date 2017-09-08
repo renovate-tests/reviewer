@@ -1,0 +1,11 @@
+{
+  "name": "reviewer",
+  "version": "1.0.0",
+  "dependencies": {
+    "left-pad": "1.0.0"
+  },
+  "renovate": {
+    "assignees": ["rarkins"],
+    "reviewers": ["rarkins"]
+  }
+}
