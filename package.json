@@ -5,6 +5,7 @@
     "left-pad": "1.0.0"
   },
   "renovate": {
+    "recreateClosed": true,
     "assignees": ["rarkins"],
     "reviewers": ["rarkins"]
   }
